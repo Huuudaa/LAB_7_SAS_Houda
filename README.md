@@ -11,7 +11,8 @@ logiques (DAO / Service / Adapter / UI).
 
 ## Démonstration
 
-https://github.com/Huuudaa/LAB_7_SAS_Houda/blob/main/vid/A.gif
+<img width="400" height="887" alt="A" src="https://github.com/user-attachments/assets/8b981c34-b6a6-4e8f-b972-fb4cb0540701" />
+
 ---
 
 ## Fonctionnalités
